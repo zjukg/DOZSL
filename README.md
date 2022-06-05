@@ -1,6 +1,8 @@
 # DOZSL
 Code and Data for the paper: "Disentangled Ontology Embedding for Zero-shot Learning".
-In this work, we focus on ontologies for augmenting ZSL, and propose to learn disentangled ontology embeddings to capture and utilize more fine-grained class relationships in different aspects.
+Yuxia Geng, Jiaoyan Chen, Wen Zhang, Yajing Xu, Zhuo Chen, Jeff Z. Pan, Yufeng Huang, Feiyu Xiong and Huajun Chen.
+KDD 2022 Research Track.
+> In this work, we focus on ontologies for augmenting ZSL, and propose to learn disentangled ontology embeddings to capture and utilize more fine-grained class relationships in different aspects.
 We also contribute a new ZSL framework named DOZSL, which contains two new ZSL solutions based on generative models and graph propagation models respectively,
 for effectively utilizing the disentangled ontology embeddings for zero-shot image classification (ZS-IMGC) and zero-shot KG completion (ZS-KGC) with unseen relations.
 
