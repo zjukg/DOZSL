@@ -56,7 +56,7 @@ If you find this code useful, please consider citing the following paper.
                Yajing Xu and
                Zhuo Chen and
                Jeff Z. Pan and
-               YUfeng Huang and
+               Yufeng Huang and
                Feiyu Xiong and
                Huajun Chen},
   title     = {Disentangled Ontology Embedding for Zero-shot Learning},
