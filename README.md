@@ -44,3 +44,25 @@ for propagation model are in folder `ZS_IMGC/models/DOZSL_GCN` and `ZS_KGC/model
 #### Baselines
 - The baselines for different ZSL methods are in the folders `ZS_IMGC/models` and `ZS_KGC/models` for ZS-IMGC and ZS-KGC tasks, respectively.
 - The baselines for different ontology embedding methods are in the folder `OntoEncoder`.
+
+
+### How to Cite
+If you find this code useful, please consider citing the following paper.
+```bigquery
+@inproceedings{geng2022dozsl,
+  author    = {Yuxia Geng and
+               Jiaoyan Chen and
+               Wen Zhang and
+               Yajing Xu and
+               Zhuo Chen and
+               Jeff Z. Pan and
+               YUfeng Huang and
+               Feiyu Xiong and
+               Huajun Chen},
+  title     = {Disentangled Ontology Embedding for Zero-shot Learning},
+  booktitle = {{KDD} '22: 28th ACM SIGKDD
+Conference on Knowledge Discovery and Data Mining / Washington DC, USA, August 14-18, 2022},
+  publisher = {{ACM} / {IW3C2}},
+  year      = {2022}
+}
+```
