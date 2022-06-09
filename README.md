@@ -1,5 +1,5 @@
 # DOZSL
-Code and Data for the paper: "Disentangled Ontology Embedding for Zero-shot Learning".
+Code and Data for the paper: "[Disentangled Ontology Embedding for Zero-shot Learning](https://arxiv.org/abs/2206.03739)".
 Yuxia Geng, Jiaoyan Chen, Wen Zhang, Yajing Xu, Zhuo Chen, Jeff Z. Pan, Yufeng Huang, Feiyu Xiong and Huajun Chen.
 KDD 2022 Research Track.
 > In this work, we focus on ontologies for augmenting ZSL, and propose to learn disentangled ontology embeddings to capture and utilize more fine-grained class relationships in different aspects.
